@@ -1,4 +1,4 @@
-# Install script for directory: E:/project/json-tutorial/tutorial02
+# Install script for directory: E:/project/json-tutorial/tutorial03
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)

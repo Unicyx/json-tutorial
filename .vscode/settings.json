@@ -1,3 +1,6 @@
 {
-    "cmake.sourceDirectory": "E:/project/json-tutorial/tutorial02"
+    "cmake.sourceDirectory": "E:/project/json-tutorial/tutorial03",
+    "files.associations": {
+        "stdlib.h": "c"
+    }
 }

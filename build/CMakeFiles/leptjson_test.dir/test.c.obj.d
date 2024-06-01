@@ -1,5 +1,5 @@
 CMakeFiles/leptjson_test.dir/test.c.obj: \
- E:\project\json-tutorial\tutorial02\test.c \
+ E:\project\json-tutorial\tutorial03\test.c \
  E:/mingw64/x86_64-w64-mingw32/include/stdio.h \
  E:/mingw64/x86_64-w64-mingw32/include/crtdefs.h \
  E:/mingw64/x86_64-w64-mingw32/include/_mingw.h \
@@ -21,4 +21,6 @@ CMakeFiles/leptjson_test.dir/test.c.obj: \
  E:/mingw64/x86_64-w64-mingw32/include/malloc.h \
  E:/mingw64/x86_64-w64-mingw32/include/string.h \
  E:/mingw64/x86_64-w64-mingw32/include/sec_api/string_s.h \
- E:\project\json-tutorial\tutorial02\leptjson.h
+ E:\project\json-tutorial\tutorial03\leptjson.h \
+ E:/mingw64/lib/gcc/x86_64-w64-mingw32/8.1.0/include/stddef.h \
+ E:/mingw64/x86_64-w64-mingw32/include/stddef.h
