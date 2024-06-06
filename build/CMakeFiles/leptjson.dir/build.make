@@ -52,7 +52,7 @@ RM = E:\Cmake\bin\cmake.exe -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = E:\project\json-tutorial\tutorial02
+CMAKE_SOURCE_DIR = E:\project\json-tutorial\tutorial06
 
 # The top-level build directory on which CMake was run.
 CMAKE_BINARY_DIR = E:\project\json-tutorial\build
@@ -69,18 +69,18 @@ include CMakeFiles/leptjson.dir/progress.make
 include CMakeFiles/leptjson.dir/flags.make
 
 CMakeFiles/leptjson.dir/leptjson.c.obj: CMakeFiles/leptjson.dir/flags.make
-CMakeFiles/leptjson.dir/leptjson.c.obj: E:/project/json-tutorial/tutorial02/leptjson.c
+CMakeFiles/leptjson.dir/leptjson.c.obj: E:/project/json-tutorial/tutorial06/leptjson.c
 CMakeFiles/leptjson.dir/leptjson.c.obj: CMakeFiles/leptjson.dir/compiler_depend.ts
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green --progress-dir=E:\project\json-tutorial\build\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building C object CMakeFiles/leptjson.dir/leptjson.c.obj"
-	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/leptjson.dir/leptjson.c.obj -MF CMakeFiles\leptjson.dir\leptjson.c.obj.d -o CMakeFiles\leptjson.dir\leptjson.c.obj -c E:\project\json-tutorial\tutorial02\leptjson.c
+	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -MD -MT CMakeFiles/leptjson.dir/leptjson.c.obj -MF CMakeFiles\leptjson.dir\leptjson.c.obj.d -o CMakeFiles\leptjson.dir\leptjson.c.obj -c E:\project\json-tutorial\tutorial06\leptjson.c
 
 CMakeFiles/leptjson.dir/leptjson.c.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Preprocessing C source to CMakeFiles/leptjson.dir/leptjson.c.i"
-	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\project\json-tutorial\tutorial02\leptjson.c > CMakeFiles\leptjson.dir\leptjson.c.i
+	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -E E:\project\json-tutorial\tutorial06\leptjson.c > CMakeFiles\leptjson.dir\leptjson.c.i
 
 CMakeFiles/leptjson.dir/leptjson.c.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color "--switch=$(COLOR)" --green "Compiling C source to assembly CMakeFiles/leptjson.dir/leptjson.c.s"
-	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\project\json-tutorial\tutorial02\leptjson.c -o CMakeFiles\leptjson.dir\leptjson.c.s
+	E:\mingw64\bin\gcc.exe $(C_DEFINES) $(C_INCLUDES) $(C_FLAGS) -S E:\project\json-tutorial\tutorial06\leptjson.c -o CMakeFiles\leptjson.dir\leptjson.c.s
 
 # Object files for target leptjson
 leptjson_OBJECTS = \
@@ -105,6 +105,6 @@ CMakeFiles/leptjson.dir/clean:
 .PHONY : CMakeFiles/leptjson.dir/clean
 
 CMakeFiles/leptjson.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\project\json-tutorial\tutorial02 E:\project\json-tutorial\tutorial02 E:\project\json-tutorial\build E:\project\json-tutorial\build E:\project\json-tutorial\build\CMakeFiles\leptjson.dir\DependInfo.cmake "--color=$(COLOR)"
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" E:\project\json-tutorial\tutorial06 E:\project\json-tutorial\tutorial06 E:\project\json-tutorial\build E:\project\json-tutorial\build E:\project\json-tutorial\build\CMakeFiles\leptjson.dir\DependInfo.cmake "--color=$(COLOR)"
 .PHONY : CMakeFiles/leptjson.dir/depend
 
