@@ -6,7 +6,7 @@
 			[
 				{
 					"build" : ".",
-					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
 					"minimumCMakeVersion" : 
 					{
 						"string" : "2.6"
@@ -41,14 +41,14 @@
 				{
 					"directoryIndex" : 0,
 					"id" : "leptjson::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-leptjson-Debug-4f2e40981df7da1c3160.json",
+					"jsonFile" : "target-leptjson-Debug-925d1fcd2963e9579b18.json",
 					"name" : "leptjson",
 					"projectIndex" : 0
 				},
 				{
 					"directoryIndex" : 0,
 					"id" : "leptjson_test::@6890427a1f51a3e7e1df",
-					"jsonFile" : "target-leptjson_test-Debug-d02b7285b3bbd04eca09.json",
+					"jsonFile" : "target-leptjson_test-Debug-1f532464a3c41aa65e57.json",
 					"name" : "leptjson_test",
 					"projectIndex" : 0
 				}
@@ -58,12 +58,12 @@
 	"kind" : "codemodel",
 	"paths" : 
 	{
-		"build" : "E:/project/json-tutorial/build",
-		"source" : "E:/project/json-tutorial/tutorial05"
+		"build" : "/mnt/e/project/json-tutorial/build",
+		"source" : "/mnt/e/project/json-tutorial/tutorial05"
 	},
 	"version" : 
 	{
 		"major" : 2,
-		"minor" : 7
+		"minor" : 3
 	}
 }

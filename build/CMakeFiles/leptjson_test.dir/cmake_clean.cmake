@@ -1,10 +1,8 @@
 file(REMOVE_RECURSE
-  "CMakeFiles/leptjson_test.dir/test.c.obj"
-  "CMakeFiles/leptjson_test.dir/test.c.obj.d"
-  "leptjson_test.exe"
-  "leptjson_test.exe.manifest"
+  "CMakeFiles/leptjson_test.dir/test.c.o"
+  "CMakeFiles/leptjson_test.dir/test.c.o.d"
+  "leptjson_test"
   "leptjson_test.pdb"
-  "libleptjson_test.dll.a"
 )
 
 # Per-language clean rules from dependency scanning.

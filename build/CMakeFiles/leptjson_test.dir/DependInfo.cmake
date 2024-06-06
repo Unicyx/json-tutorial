@@ -8,15 +8,12 @@ set(CMAKE_DEPENDS_LANGUAGES
 
 # The set of dependency files which are needed:
 set(CMAKE_DEPENDS_DEPENDENCY_FILES
-  "E:/project/json-tutorial/tutorial05/test.c" "CMakeFiles/leptjson_test.dir/test.c.obj" "gcc" "CMakeFiles/leptjson_test.dir/test.c.obj.d"
+  "/mnt/e/project/json-tutorial/tutorial05/test.c" "CMakeFiles/leptjson_test.dir/test.c.o" "gcc" "CMakeFiles/leptjson_test.dir/test.c.o.d"
   )
 
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_LINKED_INFO_FILES
-  )
-
-# Targets to which this target links which contain Fortran sources.
-set(CMAKE_Fortran_TARGET_FORWARD_LINKED_INFO_FILES
+# Targets to which this target links.
+set(CMAKE_TARGET_LINKED_INFO_FILES
+  "/mnt/e/project/json-tutorial/build/CMakeFiles/leptjson.dir/DependInfo.cmake"
   )
 
 # Fortran module output directory.
