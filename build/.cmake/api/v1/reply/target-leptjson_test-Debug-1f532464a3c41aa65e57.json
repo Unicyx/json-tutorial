@@ -2,10 +2,7 @@
 	"artifacts" : 
 	[
 		{
-			"path" : "leptjson_test.exe"
-		},
-		{
-			"path" : "leptjson_test.pdb"
+			"path" : "leptjson_test"
 		}
 	],
 	"backtrace" : 1,
@@ -72,23 +69,19 @@
 				"role" : "flags"
 			},
 			{
-				"fragment" : "",
+				"fragment" : "-rdynamic",
 				"role" : "flags"
 			},
 			{
 				"backtrace" : 2,
 				"fragment" : "libleptjson.a",
 				"role" : "libraries"
-			},
-			{
-				"fragment" : "-lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32",
-				"role" : "libraries"
 			}
 		],
 		"language" : "C"
 	},
 	"name" : "leptjson_test",
-	"nameOnDisk" : "leptjson_test.exe",
+	"nameOnDisk" : "leptjson_test",
 	"paths" : 
 	{
 		"build" : ".",
